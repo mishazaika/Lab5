@@ -33,7 +33,6 @@ namespace Lab5
             Console.WriteLine();
             Console.WriteLine("\tЗавдання №4\t");
             //визиваєио методи статичного класу
-            /*ClassStatic.ArrayMaxAndMin();*/
             ClassStatic.ArrayMaxAndMin();
             ClassStatic.Number();
             ClassStatic.MaxAndMin();
