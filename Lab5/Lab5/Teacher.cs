@@ -2,9 +2,9 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Lab5.Lab5_2_
+namespace Lab5
 {
-    class Teacher
+    class Teacher:Faculty
     {
     }
 }
